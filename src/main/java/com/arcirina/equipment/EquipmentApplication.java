@@ -9,5 +9,5 @@ public class EquipmentApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EquipmentApplication.class, args);
 	}
-
+	// ОСНОВНОЕ БУДЕТ ПРИЛОЖЕНИЕ в гитик для собесов
 }
